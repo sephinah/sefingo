@@ -1552,3 +1552,16 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-sazTzcCSRT {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sazTzcCSRT .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sazTzcCSRT .mbr-section-title,
+.cid-sazTzcCSRT .mbr-section-subtitle,
+.cid-sazTzcCSRT .mbr-text {
+  text-align: center;
+}
